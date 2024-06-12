@@ -4,12 +4,21 @@ This is a simple, fully responsive wedding website built using only HTML and CSS
 
 ## Table of Contents
 
+- [Overview](#overview)
 - [Features](#features)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Pages](#pages)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Overview
+
+Here you can see a [live version of the site](https://francesco-puppo.github.io/Wedding-Website-Template/).
+
+![The home page](/assets/preview/wedding-preview-01.jpg)
+
+![The location page](/assets/preview/wedding-preview-02.jpg)
 
 ## Features
 
