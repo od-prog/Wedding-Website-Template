@@ -22,10 +22,12 @@ Here you can see a [live version of the site](https://francesco-puppo.github.io/
 
 ## Features
 
-- Fully responsive design
-- Simple HTML and CSS, no JavaScript required
-- Easy to customize using find and replace for main words and links
-- Organized folder structure for assets
+- Fully responsive
+- Built using only HTML and CSS
+- Plenty of beautiful entry animations
+- All images are included and can be edited
+- Simple three pages structure
+- Contains a link to a RSVP form in every page
 
 ## Usage
 
