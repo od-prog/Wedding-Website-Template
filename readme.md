@@ -25,6 +25,7 @@ Here you can see a [live version of the site](https://francesco-puppo.github.io/
 - Fully responsive
 - Built using only HTML and CSS
 - Plenty of beautiful entry animations
+- Uses CSS variable colours, for easy customisation
 - All images are included and can be edited
 - Simple three pages structure
 - Contains a link to a RSVP form in every page
